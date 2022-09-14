@@ -1,0 +1,36 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  footer i
+  {
+      font-size: 30px;
+
+  }
+  footer
+  {
+      color: #fff;
+  }
+ul li a
+  {
+      color: rgb(214, 214, 214);
+      text-decoration: none;
+      
+  }
+  #sec3
+{
+  width: 70%;
+  height: 600px;
+  margin: auto;
+
+
+}
